@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#hero-list {
+    display: flex;
+    flex-direction: row;
+    width: 250px;
+    font-size: 0.7rem;
+    gap: 2px;
+}
